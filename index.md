@@ -11,4 +11,4 @@ The robot finds itself in Astoria, Oregon, and is found by Stephanie Speck, an a
 
 > Stephanie... change color! Attractive! Nice software. Mmm
 
-![Johnny 5](https://upload.wikimedia.org/wikipedia/commons/e/e8/Johnny5_03.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Johnny5_03.jpg"/>
