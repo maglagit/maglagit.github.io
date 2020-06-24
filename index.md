@@ -8,3 +8,5 @@ The robot finds itself in Astoria, Oregon, and is found by Stephanie Speck, an a
 * is alive
 * naive
 * does not want to be disassembled
+
+> Stephanie... change color! Attractive! Nice software. Mmm
